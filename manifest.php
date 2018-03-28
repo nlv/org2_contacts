@@ -8,7 +8,7 @@ $manifest = array(
     'is_uninstallable' => true,
     'published_date' => '2018-03-28',
     'type' => 'module',
-    'version' => '1.0.0',
+    'version' => '1.1.0',
 );
 $installdefs = array(
     'id' => 'org2_contacts',
