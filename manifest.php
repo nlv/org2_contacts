@@ -8,15 +8,15 @@ $manifest = array(
     'is_uninstallable' => true,
     'published_date' => '2018-03-28',
     'type' => 'module',
-    'version' => '0.0.1',
+    'version' => '1.0.0',
 );
 $installdefs = array(
     'id' => 'org2_contacts',
     'language' => array(
         array (
-            'from' => '<basepath>/source/language/Contacts/ru_ru.contacts.php',
+            'from' => '<basepath>/source/language/Contacts/ru_RU.contacts.php',
             'to_module' => 'Contacts',
-            'language' => 'ru_ru',
+            'language' => 'ru_RU',
         ),
     ),
     'vardefs' => array (
