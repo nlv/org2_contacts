@@ -6,9 +6,9 @@ $manifest = array(
     'author' => 'Leon.V.Nikitin (nlvomsk@gmail.com)',
     'description' => 'Доработка модуля контактов',
     'is_uninstallable' => true,
-    'published_date' => '2018-03-28',
+    'published_date' => '2018-04-01',
     'type' => 'module',
-    'version' => '1.2.2',
+    'version' => '1.3.3',
     'dependencies' => array(
       array(
        'id_name' => 'org2_doms',
