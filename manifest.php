@@ -6,13 +6,13 @@ $manifest = array(
     'author' => 'Leon.V.Nikitin (nlvomsk@gmail.com)',
     'description' => 'Доработка модуля контактов',
     'is_uninstallable' => true,
-    'published_date' => '2018-05-23',
+    'published_date' => '2019-02-25',
     'type' => 'module',
-    'version' => '1.4.0',
+    'version' => '1.5.0',
     'dependencies' => array(
       array(
        'id_name' => 'org2_doms',
-       'version' => '1.3',
+       'version' => '1.4',
       ),
       )
 );
